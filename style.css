@@ -1,0 +1,174 @@
+body{
+    margin:0px;
+    background-color:#FFFBE9 ;
+    text-align: center;
+
+}
+
+hr{
+    border: dotted  ;
+    border-bottom: none;
+    width: 10%;
+    margin: 4% auto 4% auto;
+}
+
+.box1 {
+    background-color: #faf9f3;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+        
+}
+
+h1{
+    margin-top:0px;
+    margin-bottom: 0px; 
+    font-size: 500%;
+    font-family: 'La Belle Aurore', cursive;
+}
+
+.pp {
+    font-size: 200%;
+    font-family: 'La Belle Aurore', cursive;
+
+}
+.skill-row{
+    width: 50%;
+    margin : 10% auto 10% auto;
+    text-align: left;
+    line-height: 1.5;
+    font-size: 90%;
+
+}
+.profile{
+    padding-top: 5%;
+    font-size: 100%;
+}
+.skills{
+    font-size: 100%;
+}
+.contact-me{
+    margin:auto ;
+    text-align: center;
+    width: 50%;
+}
+.intro{
+    width:50%;
+    margin: auto;
+}
+.bottom-container{
+    background-color: rgb(242, 248, 205);
+    padding: 2%;
+
+}
+.footer{
+    padding: 1%;
+    color: #746d50;
+   
+}
+.footer:hover{
+    color: #110e0e;
+}
+
+
+/*.box2
+{
+    margin:0px;
+    background-color: blue;
+    width:200px;
+    height:200px;
+    margin-left: 50%;
+    border: 3px solid black;
+}
+.box3
+{
+    background-color: red;
+    width:300px;
+    height:300px;
+    border: 3px dashed black;
+    margin:0;
+    margin-left: 68%;
+}*/
+
+#mountain {
+    height:100%;
+    width:100%;
+    margin-left: 0;
+    position: relative;
+    margin: 0%;
+}
+
+#cloud1 {
+    height:20%;
+    width: 20%;
+   
+    position:relative;
+    margin-left: 70%;
+    padding-top: 0.7%;
+
+}
+
+#cloud2 {
+    padding-top:0% ;
+    position: relative;
+    height:30%;
+    width: 20%;
+    margin-right: 80%;
+
+}
+
+#profile{
+    border-radius: 60%;
+    width: 20%;
+    
+}
+#skills1 {
+    height: 10%;
+    width: 90%;
+    border-radius: 70%;
+}
+#skills2{
+    height: 100%;
+    width: 90%;
+    border-radius: 70%;
+}
+#getintouch {
+    background: #54b4f5;
+    background-image: -webkit-linear-gradient(top, #54b4f5, #2980b9);
+    background-image: -moz-linear-gradient(top, #54b4f5, #2980b9);
+    background-image: -ms-linear-gradient(top, #54b4f5, #2980b9);
+    background-image: -o-linear-gradient(top, #54b4f5, #2980b9);
+    background-image: linear-gradient(to bottom, #54b4f5, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 3px #0d010d;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 26px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    width: 50%;
+    margin: auto;
+}
+  
+#getintouch:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+#copyright{
+    font-family: 'La Belle Aurore', cursive;
+}
+
+
+
+
